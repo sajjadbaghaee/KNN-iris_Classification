@@ -129,7 +129,7 @@ Required packages:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sajjadbaghaee/ml-fundamentals-KNN.git
+   git clone https://github.com/sajjadbaghaee/KNN-iris_Classification.git
    ```
 2. Navigate into the project directory:
    ```bash
