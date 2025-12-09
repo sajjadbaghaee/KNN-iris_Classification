@@ -5,6 +5,9 @@ This repository presents a rigorously documented Jupyter Notebook that demonstra
 
 The notebook is designed for learners and researchers who wish to develop a deep, foundational understanding of classical machine learning models, their empirical behavior, and the methodological steps necessary for conducting a proper supervised learning study.
 
+GitHub Repository:  
+👉 **https://github.com/sajjadbaghaee/KNN-iris_Classification**
+
 ---
 
 ## 🔍 **1. Project Overview**
