@@ -176,10 +176,6 @@ Additional notebooks can be added to build a complete educational machine learni
 
 ---
 
-## 📄 **8. License**
-
-This project is released under the **MIT License**, permitting educational, academic, and research use.
-
 <p align="center">
   <strong> 🔥📘💻 More Codes and Tutorials are available at:</strong><br>
   <a href="https://github.com/sajjadbaghaee">
