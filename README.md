@@ -28,7 +28,7 @@ This project serves as an educational foundation for more complex machine learni
 ## 📁 **2. Repository Contents**
 
 ```
-.
+KNN-iris_Classification
 │
 ├── iris_KNN_Classification.ipynb   # Main notebook with full implementation and analysis
 ├── README.md                       # Documentation (this file)
